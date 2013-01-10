@@ -1,5 +1,7 @@
 <?php
 
+echo "This is our first";
+
 /*
  *---------------------------------------------------------------
  * APPLICATION ENVIRONMENT
